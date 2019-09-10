@@ -12,7 +12,7 @@ Using promises, we can avoid the infamous ‘callback hell’ and make our code 
 
 
 
-Promises
+Promises:
 
 A promise is an object that holds the future value of an async operation.
 For example, if we are requesting some data from a server, the promise promises us to get that data which we can use in the future.
