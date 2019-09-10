@@ -1,0 +1,2 @@
+# Node.js_Promise
+  Node.js JavaScript Promises.  JavaScript is a single-threaded programming language - that means only one thing can happen at a time.   Before ES6, we used callbacks to handle asynchronous tasks such as network requests.   Using promises, we can avoid the infamous ‘callback hell’ and make our code cleaner, easier to read, and easier to understand. A promise is an object that holds the future value of an async operation. 
