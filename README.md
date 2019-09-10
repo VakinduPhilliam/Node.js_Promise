@@ -1,7 +1,7 @@
 # Node.js_Promise
  
 
-Node.js JavaScript Promises
+Node.js JavaScript Promises:
 
 JavaScript is a single-threaded programming language - that means only one thing can happen at a time. 
 
